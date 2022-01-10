@@ -1,5 +1,5 @@
 #Hcf and Gcd is same
-
+#we are evaluatinh HCF/ GCD of two numbers.
 #Take 2 numbers
 num1=int(input("enter num:"))
 num2=int(input("enter num:"))
