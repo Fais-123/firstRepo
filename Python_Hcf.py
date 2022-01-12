@@ -1,3 +1,4 @@
+#Python code for Hcf in local folder.
 #Hcf and Gcd is same
 #we are evaluating HCF/ GCD of two numbers.
 #Take 2 numbers
