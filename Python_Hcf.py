@@ -1,3 +1,4 @@
+#Python Code for the GCD in remote repo.
 #Hcf and Gcd is same
 #we are evaluating HCF/ GCD of two numbers.
 #Take 2 numbers
